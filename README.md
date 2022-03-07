@@ -19,7 +19,6 @@
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=otoufah)]
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
