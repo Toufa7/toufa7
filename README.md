@@ -18,3 +18,9 @@
 
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=otoufah)]
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toufa7&show_icons=true&locale=en" alt="toufa7" /></p>
