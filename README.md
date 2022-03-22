@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm TouFa7 most known as P0MS</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
 
-<p align="left"> <a href="https://twitter.com/t0ufa7" target="blank"><img src="https://img.shields.io/twitter/follow/t0ufa7?logo=twitter&style=for-the-badge" alt="t0ufa7" /></a> </p>
 
-- 🔭 I’m currently working on [[PUSH_SWAP]](https://github.com/Toufa7/Push_Swap-ID.git)
+- 🔭 I’m currently working on [[PUSH_SWAP]](https://github.com/Toufa7/Push_swap)
 
 - 📫 How to reach me **otoufah@student.1337.ma**
 
