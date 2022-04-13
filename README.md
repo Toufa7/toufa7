@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Morocco</h3>
 
 
-- 🔭 I’m currently working on [[PUSH_SWAP]](https://github.com/Toufa7/Push_swap)
+- 🔭 I’m currently working on [[Pipex]](https://github.com/Toufa7/pipex)
 
 - 📫 How to reach me **otoufah@student.1337.ma**
 
