@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Morocco</h3>
 
 
-- 🔭 I’m currently working on [[Philosophers]](https://github.com/Toufa7/Philosophers)
+- 🔭 I’m currently working on [[Philosophers]](https://github.com/Toufa7/Philos)
 
 - 📫 How to reach me **otoufah@student.1337.ma**
 
