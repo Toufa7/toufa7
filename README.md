@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Morocco</h3>
 
 
-- 🔭 I’m currently working on [[Minishell]](https://github.com/Toufa7/Minishell)
+- 🔭 I’m currently working on [[Minishell]](https://github.com/Toufa7/Minisell)
 
 - 📫 How to reach me **otoufah@student.1337.ma**
 
