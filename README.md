@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Morocco</h3>
 
 
-- 🔭 I’m currently working on [[Minishell]](https://github.com/Toufa7/Minishell) with [Abdeljalil Bouchfar](https://github.com/Abdeljalil-Bouchfar)
+- 🔭 I’m currently not working on [[Minishell]](https://github.com/Toufa7/Minishell) with [Abdeljalil Bouchfar](https://github.com/Abdeljalil-Bouchfar)
 
 - 📫 How to reach me **otoufah@student.1337.ma**
 
