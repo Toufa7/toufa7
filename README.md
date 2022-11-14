@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Morocco</h3>
 
 
-- 🔭 I’m currently not working on [[Cub3D]](https://github.com/Toufa7/Cub3D)
+- 🔭 I’m currently learning [[C++]](https://cplusplus.com/)
 
 - 📫 How to reach me **otoufah@student.1337.ma**
 
