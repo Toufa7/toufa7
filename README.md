@@ -19,10 +19,6 @@
 <a href="https://toufa7.medium.com/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/923954?s=200&v=4" alt="Medium" height="40" width="40" /></a>
 
 
-
-Here i'm 👋 :
-
-
 [![otoufah's 42 stats](https://badge.mediaplus.ma/darkblue/otoufah)](https://github.com/oakoudad/badge42)
 
 
