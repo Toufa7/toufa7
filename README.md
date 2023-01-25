@@ -13,8 +13,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="40"/> </a> </p>
 
+<h3 align="left">I wrote articles on various IT topics :</h3>
+<a href="https://toufa7.medium.com/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/923954?s=200&v=4" alt="Medium" height="50" width="50" /></a>
+
+
+
+Here i'm 👋 :
 
 [![otoufah's 42 stats](https://badge.mediaplus.ma/darkblue/otoufah)](https://github.com/oakoudad/badge42)
 
