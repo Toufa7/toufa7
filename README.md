@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Morocco</h3>
 
 
-- 🔭 I’m currently learning [[C++]](https://cplusplus.com/)
+- 🔭 I’m currently learning [[C++]](https://github.com/Toufa7/CPLUSPLUS/)
 
 - 📫 How to reach me **otoufah@student.1337.ma**
 
