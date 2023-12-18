@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm TouFa7 most known as P0MS</h1>
-<h3 align="center">A passionate developer from Morocco</h3>
+<h3 align="center">A passionate developer from Morocco (Seeking Internship)</h3>
 
 
-- 🔭 I’m currently not working on [[PIXELPONG]](https://github.com/Toufa7/PixelPong)
+- 🔭 My last project [[PIXELPONG]](https://github.com/Toufa7/PixelPong)
 
-- 📫 How to reach me **otoufah@student.1337.ma**
+- 📫 How to reach me **o.toufah@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
